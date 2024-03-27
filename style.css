@@ -1,0 +1,58 @@
+fieldset{
+    border-color: black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.div-res{
+    display: flex;
+}
+.body{
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eef2f3, #8e9eab); 
+}
+.title-h1{
+    text-align: center; font-size: 50px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.p-des{
+    text-align: center; font-size: 20px; 
+}
+.img-sty{
+     width:200px; height:250px; margin-left: 27px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.all-legend{
+    font-size: 20px;
+}
+.input-all{
+    width: 200px; height: 30px; font-size: 15px; margin-bottom: 5px;
+}
+.input-sen{
+    margin-bottom: 5px;
+}
+.input-nc{
+    width: 200px; height: 30px; font-size: 15px; margin-bottom: 5px;
+}
+.input-number{
+    width: 200px; height: 30px; font-size: 15px;  
+}
+.fieldset-sty{
+    justify-content: space-evenly; flex-wrap: wrap; display: flex; overflow: hidden;
+}
+.fieldset-sty2{
+    justify-content: space-evenly; flex-wrap: wrap; display: flex; font-size: 20px; overflow: hidden;
+}
+.a-button{
+    font-size: 18px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 20%;
+}
+.footer{
+    justify-content: space-evenly; display: flex;
+}
+.cua-footer{
+    background-color: #d7d7d7;
+background-image: linear-gradient(147deg, #d7d7d7 0%, #353535 74%);
+ width:550px; height:150px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.p-foo{
+    text-align: center; font-size: 18px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
